@@ -24,10 +24,6 @@ A modern, production-grade personal portfolio website showcasing **Full-Stack En
 
 ---
 
-## Additional project
-
-The standalone version of Sachin’s personal site is included in [`projects/personal-site`](projects/personal-site/). It runs independently with Express and is deployed at [sachin-kumar-portfolio-itv8.onrender.com](https://sachin-kumar-portfolio-itv8.onrender.com/). See its README for local setup.
-
 ## 🛠️ Tech Stack
 
 | Domain | Technologies |
