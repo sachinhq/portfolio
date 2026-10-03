@@ -16,8 +16,8 @@ export const personalInfo = {
     githubUsername: "sachinhq",
     codechefUsername: "sachinnick9876",
   },
-  resumeUrl: "/resume/Sachin-CV.pdf",
-  profileImage: "/sachin.jpg",
+  resumeUrl: "./resume/Sachin-CV.pdf",
+  profileImage: "./sachin.jpg",
 };
 
 export const aboutPillars = [
